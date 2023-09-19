@@ -28,5 +28,5 @@ HtmlHead.propTypes = {
 };
 
 HtmlHead.defaultProps = {
-  title: 'The Planning Poker',
+  title: 'WEG Planning Poker',
 };
