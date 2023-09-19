@@ -19,7 +19,7 @@ const ErrorComponent = ({ className, code }) => {
   return (
     <div id="component-error" className={className}>
       <Layout>
-        <HtmlHead title="Error - The Planning Poker" />
+        <HtmlHead title="Error - WEG Planning Poker" />
         <h1>{title}</h1>
         <p>
           Request a valid link or

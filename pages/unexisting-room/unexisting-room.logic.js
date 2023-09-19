@@ -20,7 +20,7 @@ const UnexistingRoom = ({ className }) => {
   return (
     <div id="component-unexisting-room" className={className}>
       <Layout>
-        <HtmlHead title="Unexisting room - The Planning Poker" />
+        <HtmlHead title="Unexisting room - WEG Planning Poker" />
         <div className="component-unexisting-room__content">
           <h1>Unexisting room</h1>
           <p>

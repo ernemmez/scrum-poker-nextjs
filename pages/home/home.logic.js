@@ -56,7 +56,7 @@ const Home = ({ className }) => {
   return (
     <div id="component-home" className={`${className} component-home`}>
       <Layout>
-        <HtmlHead title="Home - The Planning Poker" />
+        <HtmlHead title="Home - WEG Planning Poker" />
         <h1>Create a room</h1>
         <div className="component-home__content">
           <Input
